@@ -16,7 +16,7 @@ cachetools==4.2.4
     # via
     #   -r requirements.in
     #   google-auth
-certifi==2022.5.18.1
+certifi==2023.7.22
     # via
     #   -r requirements.in
     #   requests
