@@ -194,7 +194,7 @@ requests==2.27.1
     # via
     #   -r requirements.in
     #   google-api-core
-rsa==4.8
+rsa==4.9.1
     # via
     #   -r requirements.in
     #   google-auth
