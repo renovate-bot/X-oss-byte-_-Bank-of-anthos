@@ -230,7 +230,7 @@ werkzeug==2.1.2
     # via
     #   -r requirements.in
     #   flask
-wrapt==1.14.1
+wrapt==1.17.3
     # via
     #   -r requirements.in
     #   deprecated
