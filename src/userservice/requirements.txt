@@ -67,7 +67,7 @@ grpcio==1.46.3
     # via
     #   -r requirements.in
     #   google-api-core
-gunicorn==20.1.0
+gunicorn==22.0.0
     # via -r requirements.in
 idna==3.3
     # via
