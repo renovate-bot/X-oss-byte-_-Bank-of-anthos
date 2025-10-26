@@ -81,7 +81,7 @@ importlib-metadata==4.11.4
     #   pluggy
     #   pytest
     #   sqlalchemy
-iniconfig==1.1.1
+iniconfig==2.3.0
     # via pytest
 itsdangerous==2.1.2
     # via
