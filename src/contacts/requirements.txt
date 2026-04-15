@@ -208,7 +208,7 @@ six==1.16.0
     #   grpcio
 sqlalchemy==1.4.36
     # via -r requirements.in
-tomli==2.0.1
+tomli==2.4.1
     # via
     #   coverage
     #   pytest
