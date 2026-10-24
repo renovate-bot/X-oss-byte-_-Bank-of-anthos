@@ -117,7 +117,7 @@ requests==2.27.1
     #   google-api-core
 rsa==4.8
     # via google-auth
-six==1.16.0
+six==1.17.0
     # via
     #   google-auth
     #   grpcio
