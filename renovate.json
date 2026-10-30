@@ -7,7 +7,7 @@
     "fileMatch": ["(^|/)requirements\\.in$"]
   },
   "constraints": {
-    "python": "~=3.7.0"
+    "python": "3.15.1"
   },
   "prConcurrentLimit":5,
   "stabilityDays":7,
